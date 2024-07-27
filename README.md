@@ -31,11 +31,12 @@ O projeto é composto pelos seguintes arquivos:
   app.js: Contém o script JavaScript que adiciona a funcionalidade de alternância de tema ao botão.
 
 ## Autor
-  Nome: [Luiz Eduardo de França]
-  GitHub: [edufrannca]
+  Nome: Luiz Eduardo de França
+  GitHub: edufrannca
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+[MIT License.txt]((./LICENSE))
 
 
 
